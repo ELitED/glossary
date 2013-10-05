@@ -1,6 +1,6 @@
-## A glossary for the United States
+## A glossary for GitMachines
 
-A collection of pleasant, readable definitions of terms and processes in the United States. Designed for integration in various user-facing applications.
+A collection of pleasant, readable definitions of terms and processes in GitMachines acreditation-ready virtual machines. Based on Eric Mill's United States Glossary. Designed for integration in various user-facing applications.
 
 Ease of understanding is the #1 priority. Precision and completeness are #2.
 
@@ -16,24 +16,10 @@ The longer definition can use links, but the text should hold up even if the lin
 
 ### Examples
 
-The words "Referred to Committee" are shown as the status of the vast majority of bills in the House and Senate, and it sounds important, but it usually means the bill is dead.
+The words "Vagrant box" refers to a virtual machine image that can be programmatically configured by the software called Vagrant.
 
-In file "Referred to Committee":
+In file "Vagrant box":
 
-> After a bill is introduced, it is immediately sent to one or more committees for consideration and approval.
+> A virtual machine image that automatically launches, configures itself, and installs software from the web according to a set of instructions. 
 
-> Every bill is referred to a committee, but few bills actually receive committee attention, so most bills die here. It's up to each committee to vote on whether the bill should be considered by the whole chamber.
-
-> Almost every bill will need a committee's approval to be considered by the whole chamber. On rare occasions, a bill can bypass the committee process and be brought directly to the floor.
-
-> Bills are referred to committees by subject area. For example, a bill about wind energy investment in the House might be referred to the House Energy and Commerce Committee. If that bill involves taxes, it might also be referred to the House Appropriations Committee.
-
-In the Senate, cloture votes are often practically equivalent to passage votes.
-
-In file "Cloture":
-
-> Before a bill can proceed to a final up-or-down vote in the Senate, 60 senators must agree to end debate through a vote on "cloture".
-
-> Preventing the Senate from ending debate in order to avoid voting to pass a bill is often called a [filibuster].
-
-> The 60-senator threshold for cloture votes is a Senate rule - it is not part of the Constitution. The Constitution mandates a majority vote for the passage of bills, but the Senate is allowed to set its own rules that govern the process of getting to that final vote.
+> Vagrant boxes are generally 340MB to 500MB and consist of a basic operating system like Linux or Ubuntu. Most do not include the GUI elements of an operating system because developers tend to use Vagrant boxes to mimic server production environments.
