@@ -26,4 +26,4 @@ In file "Vagrant box":
 
 ### Links
 
-http://pad.sunlightfoundation.com/p/Annotation_Thesaurus_Breakout - Notes from October, 2013, breakout session discussion of legal glossary and thesaurus.
+- http://pad.sunlightfoundation.com/p/Annotation_Thesaurus_Breakout - Notes from October, 2013, breakout session discussion of legal glossary and thesaurus.
