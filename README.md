@@ -23,3 +23,7 @@ In file "Vagrant box":
 > A virtual machine image that automatically launches, configures itself, and installs software from the web according to a set of instructions. 
 
 > Vagrant boxes are generally 340MB to 500MB and consist of a basic operating system like Linux or Ubuntu. Most do not include the GUI elements of an operating system because developers tend to use Vagrant boxes to mimic server production environments.
+
+### Links
+
+http://pad.sunlightfoundation.com/p/Annotation_Thesaurus_Breakout - Notes from October, 2013, breakout session discussion of legal glossary and thesaurus.
