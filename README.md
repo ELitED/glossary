@@ -1,6 +1,6 @@
 ## A glossary for GitMachines
 
-A collection of pleasant, readable definitions of terms and processes in GitMachines acreditation-ready virtual machines. Based on Eric Mill's United States Glossary. Designed for integration in various user-facing applications.
+A collection of pleasant, readable definitions of terms and processes in GitMachines accreditation-ready virtual machines. Based on Eric Mill's United States Glossary. Designed for integration in various user-facing applications.
 
 Ease of understanding is the #1 priority. Precision and completeness are #2.
 
@@ -26,4 +26,4 @@ In file "Vagrant box":
 
 ### Links
 
-- http://pad.sunlightfoundation.com/p/Annotation_Thesaurus_Breakout - Notes from October, 2013, breakout session discussion of legal glossary and thesaurus.
+- https://gist.github.com/konklone/42ed50f1b8f9f2275c13 - Notes from October, 2013, breakout session discussion of legal glossary and thesaurus.
