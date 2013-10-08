@@ -1,6 +1,6 @@
 A fully functioning software reproduction of a real, physical computer. 
 
-A virtual machines (VM) abstracts underlying hardware resources of CPU, memory, harddisk, display, and network into software to mimic a physical computer including its installed operating system. Multiple "guest" virtual machines can co-exist and even run at the same time on a single "host" computer. Since virtual machines are purely digital, they have all the advantages of digital assets such as ability to upload/download, clone (copy), undo, diff (compare), and manipulate programmatically. 
+A virtual machine (VM) abstracts underlying hardware resources of CPU, memory, harddisk, display, and network into software to mimic a physical computer including its installed operating system. Multiple "guest" virtual machines can co-exist and even run at the same time on a single "host" computer. Since virtual machines are purely digital, they have all the advantages of digital assets such as ability to upload/download, clone (copy), undo, diff (compare), and manipulate programmatically. 
 
 In computer science circles, virtual machines may also refer to software-defined computing environment designed to run a single program thereby enabling a program to run identically  across different computing hardware without modification. 
 
