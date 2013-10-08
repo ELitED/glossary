@@ -4,4 +4,4 @@ A virtual machine (VM) abstracts underlying hardware resources of CPU, memory, h
 
 In software engingeering and computer science, virtual machines may also refer to software-defined computing environments designed to run a single program or process thereby enabling the program to run identically across different computing hardware architectures without modification. The virtual machine, rather than the program, is customized to each architecture.
 
-Source: (Popek and Goldberg virtualization requirements)[http://en.wikipedia.org/wiki/Popek_and_Goldberg_virtualization_requirements]
+Source: [Popek and Goldberg virtualization requirements](http://en.wikipedia.org/wiki/Popek_and_Goldberg_virtualization_requirements)
