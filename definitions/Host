@@ -1,0 +1,5 @@
+Host
+
+1. The computer inside of which a guest virtual machine resides and runs.
+
+2. A networked computer capable of receiving guest connections and/or hosting sessions by guest users or processes.
