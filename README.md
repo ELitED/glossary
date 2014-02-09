@@ -18,8 +18,6 @@ The longer definition can use links, but the text should hold up even if the lin
 
 The words "Green Button" refers to the symbol and initiative of providing individuals and business with machine-readable data of their historic and current energy usage.
 
- virtual machine image that can be programmatically configured by the software called Vagrant.
-
 In file "Green Button":
 
 ```text
