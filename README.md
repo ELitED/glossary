@@ -16,13 +16,17 @@ The longer definition can use links, but the text should hold up even if the lin
 
 ### Examples
 
-The words "Vagrant box" refers to a virtual machine image that can be programmatically configured by the software called Vagrant.
+The words "Green Button" refers to the symbol and initiative of providing individuals and business with machine-readable data of their historic and current energy usage.
 
-In file "Vagrant box":
+ virtual machine image that can be programmatically configured by the software called Vagrant.
 
-> A virtual machine image that automatically launches, configures itself, and installs software from the web according to a set of instructions. 
+In file "Green Button":
 
-> Vagrant boxes are generally 340MB to 500MB and consist of a basic operating system like Linux or Ubuntu. Most do not include the GUI elements of an operating system because developers tend to use Vagrant boxes to mimic server production environments.
+```text
+Symbol and international initiative of providing individuals and business with machine-readable data of their historic and current energy usage.
+
+Source: [Department of Energy Introduction to Green Button](http://energy.gov/sites/prod/files/Green.Button.webinar.for_.DOE_.Apps_.Energy.pptx)
+```
 
 ### Links
 
