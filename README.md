@@ -20,11 +20,9 @@ The words "Green Button" refers to the symbol and initiative of providing indivi
 
 In file "Green Button":
 
-```text
-Symbol and international initiative of providing individuals and business with machine-readable data of their historic and current energy usage.
+> Symbol and international initiative of providing individuals and business with machine-readable data of their historic and current energy usage.
 
-Source: [Department of Energy Introduction to Green Button](http://energy.gov/sites/prod/files/Green.Button.webinar.for_.DOE_.Apps_.Energy.pptx)
-```
+> Source: [Department of Energy Introduction to Green Button](http://energy.gov/sites/prod/files/Green.Button.webinar.for_.DOE_.Apps_.Energy.pptx)
 
 ### Links
 
