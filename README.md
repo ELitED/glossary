@@ -1,4 +1,4 @@
-## A glossary for GitMachines
+## A glossary for ELitED (Energy Literacy EDucation)
 
 A collection of pleasant, readable definitions of terms and processes in GitMachines accreditation-ready virtual machines. Based on Eric Mill's United States Glossary. Designed for integration in various user-facing applications.
 
